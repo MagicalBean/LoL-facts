@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "fact": "Zilean is named after Tom 'Zileas' Cadwell, a design director at Riot Games.",
+    "characters": ["Zilean"],
+    "categories": []
+  },
+  {
+    "id": 2,
+    "fact": "Fiora is inspired and named by Fiore dei Liberi, a famous Italian fencing master.",
+    "characters": ["Fiora"],
+    "categories": []
+  },
+  {
+    "id": 3,
+    "fact": "After winning in Howling Abyss, wait for about half a mintue and the Ice Witch Lissandra will give you some cool narration.",
+    "characters": ["Lissandra"],
+    "categories": []
+  },
+  {
+    "id": 4,
+    "fact": "Mike Laygo stated that Aatrox's animations were inspired by Balrog and Sauron from Lord of the Rings.",
+    "characters": ["Aatrox"],
+    "categories": []
+  },
+  {
+    "id": 5,
+    "fact": "Feed a Poro a Poro-Snax while playing as Braum and the cute little critter will grow a black moustache.",
+    "characters": ["Braum", "Poro"],
+    "categories": []
+  },
+  {
+    "id": 6,
+    "fact": "Zyra, Cassiopeia, Fiora, Shyvana, and Elise are all performed by voice actress Karen Strassman.",
+    "characters": ["Zyra", "Cassiopeia", "Fiora", "Shyvana", "Elise"],
+    "categories": []
+  },
+  {
+    "id": 7,
+    "fact": "According to eSports commentator Leigh Smith, the sound effects for Zac's squishes were made from dog food and beans inside a condom slapped against a wall.",
+    "characters": ["Zac"],
+    "categories": ["explicit"]
+  },
+  {
+    "id": 8,
+    "fact": "When Heimerdinger says, '42... there's just something about that number,' he's referencing Douglas Adams' The Hitchhiker's Guide to the Galaxy.",
+    "characters": ["Heimerdinger"],
+    "categories": []
+  },
+  {
+    "id": 9,
+    "fact": "In honor of a Make-A-Wish patient who visited Riot Games, Jax will occasionally say, 'Here's to you, kid,' to honor his memory.",
+    "characters": ["Jax"],
+    "categories": []
+  },
+  {
+    "id": 10,
+    "fact": "The BF Sword is an allusion to Doom's BFG9000, it's most over-the-top weapon.",
+    "characters": [],
+    "categories": ["items"]
+  },
+  {
+    "id": 11,
+    "fact": "YouTube Gamer NeiLalwaysLeeT produced a side by side comparsion that show how Jinx dances like Jake from Adventure Time.",
+    "characters": ["Jinx"],
+    "categories": ["dance"]
+  },
+  {
+    "id": 12,
+    "fact": "Annie, Sion, Singed, and Sivir are the first Champions designed.",
+    "characters": ["Annie", "Sion", "Singed", "Sivir"],
+    "categories": []
+  },
+  {
+    "id": 13,
+    "fact": "Tristana's Buster Shot is homage to Mega Man.",
+    "characters": ["Tristana"],
+    "categories": []
+  },
+  {
+    "id": 14,
+    "fact": "When Malphite uses his 'Ground Slam' attack the fist imprinted on the ground is actually Riot Games' logo.",
+    "characters": ["Malphite"],
+    "categories": []
+  },
+  {
+    "id": 15,
+    "fact": "Teemo is based off an emoticon, his name is an anagram of 'emote' and his devilish smile is similar to the emoticon.",
+    "characters": ["Teemo"],
+    "categories": []
+  },
+  {
+    "id": 16,
+    "fact": "PAX Twisted Fate is the rarest skin in the game because the code for it was only released at one of the very first LoL conventions, when the game wasn't very popular.",
+    "characters": ["Twisted Fate"],
+    "categories": ["skins"]
+  },
+  {
+    "id": 17,
+    "fact": "Leona gets a damage drop of 1 against champions wearing sunglasses (even skins).",
+    "characters": ["Leona"],
+    "categories": []
+  },
+  {
+    "id": 18,
+    "fact": "Gentleman Cho'gath was the first skin with different voiceovers.",
+    "characters": ["Cho'gath"],
+    "categories": []
+  },
+  {
+    "id": 19,
+    "fact": "There are 6 sets of sibling champions, Morgana & Kayle, Lux & Garen, Ashe & Sejuani, Draven & Darius, Nasus & Renekton, and Cassiopeia & Katarina.",
+    "characters": [
+      "Morgana",
+      "Kayle",
+      "Lux",
+      "Garen",
+      "Ashe",
+      "Sejuani",
+      "Draven",
+      "Darius",
+      "Nasus",
+      "Renekton",
+      "Cassiopeia",
+      "Katarina"
+    ],
+    "categories": []
+  },
+  {
+    "id": 20,
+    "fact": "There are snakes slithering around the Rift, however when Cassiopeia is chosen as a champion, all of them disappear. They reappear when she's killed.",
+    "characters": ["Cassiopeia"],
+    "categories": []
+  },
+  {
+    "id": 21,
+    "fact": "When Sion kills Zyra and vica versa, they get 2 bonous gold.",
+    "characters": ["Sion", "Zyra"],
+    "categories": []
+  },
+  {
+    "id": 22,
+    "fact": "Vilemaw will perform a special dance if two other champions dance near him.",
+    "characters": ["Vilemaw"],
+    "categories": []
+  },
+  {
+    "id": 23,
+    "fact": "Maokai is an anagram of 'I am oak'.",
+    "characters": ["Maokai"],
+    "categories": []
+  },
+  {
+    "id": 24,
+    "fact": "Maokai gains plus 1 movement speed when very close to Zyra.",
+    "characters": ["Maokai", "Zyra"],
+    "categories": []
+  },
+  {
+    "id": 25,
+    "fact": "If you walk into a bush as Skarner and wait for a bit he will say 'Skar Skar Skarner' as a reference to Pokemon.",
+    "characters": ["Skarner"],
+    "categories": []
+  },
+  {
+    "id": 26,
+    "fact": "If two Draven's are dueling, they can catch each other's axes.",
+    "characters": ["Draven"],
+    "categories": []
+  },
+  {
+    "id": 27,
+    "fact": "Sejuani's dash can break Jarvan's ultimate (as in actually break the wall). It can also break through Anivia's wall.",
+    "characters": ["Sejuani", "Jarvan", "Anivia"],
+    "categories": []
+  },
+  {
+    "id": 28,
+    "fact": "When an enemy Nunu dies near Thresh, two souls drop, one for Nunu and one for Willump.",
+    "characters": ["Thresh", "Nunu"],
+    "categories": []
+  },
+  {
+    "id": 29,
+    "fact": "The shark that appears when Fizz casts the spell 'Chum the Waters' is called Chomper.",
+    "characters": ["Fizz"],
+    "categories": []
+  },
+  {
+    "id": 30,
+    "fact": "Some champion skins represent browser engines like Chrome Rammus, Safari Caitlyn, Foxfire Ahri, and Explorer Ezreal.",
+    "characters": ["Rammus", "Caitlyn", "Ahri", "Ezreal"],
+    "categories": []
+  },
+  {
+    "id": 31,
+    "fact": "Thresh's max health at level 18 (without health items) is 2013, the year he was released.",
+    "characters": ["Thresh"],
+    "categories": []
+  },
+  {
+    "id": 32,
+    "fact": "Katarina and Garen likey have a thing. It isn't proven yet in lore, but is still a very likely theory.",
+    "characters": ["Katarina", "Garen"],
+    "categories": ["theory"]
+  },
+  {
+    "id": 33,
+    "fact": "Some of Lux's lore says shes never shown her magic, some says she has.",
+    "characters": ["Lux"],
+    "categories": []
+  },
+  {
+    "id": 34,
+    "fact": "Senior Narative Writer, Matt Dunn confirms Neeko identifies as lesbian",
+    "characters": ["Neeko"],
+    "categories": []
+  },
+  {
+    "id": 35,
+    "fact": "The aircraft that Corki piloted was called the Reconnaissance Operations Frontline (ROFL) Copter.",
+    "characters": ["Corki"],
+    "categories": []
+  },
+  {
+    "id": 36,
+    "fact": "According to the lore Rumble secretly loves Tristana so he named his machine Tristy.",
+    "characters": ["Rumble"],
+    "categories": []
+  },
+  {
+    "id": 37,
+    "fact": "Kassadin was the chapion to get nerfed the most times.",
+    "characters": ["Kassadin"],
+    "categories": []
+  },
+  {
+    "id": 38,
+    "fact": "The position of the 4 letters that make up 'Jhin' create the number 4.",
+    "characters": ["Jhin"],
+    "categories": []
+  },
+  {
+    "id": 39,
+    "fact": "Janna is the only champion that can shield the turret",
+    "characters": ["Janna"],
+    "categories": []
+  },
+  {
+    "id": 40,
+    "fact": "Warwick has a dance that imitates the choreography of singer Michael Jackson in the music video for the song Thriller.",
+    "characters": ["Warwick"],
+    "categories": ["dance"]
+  }
+]
