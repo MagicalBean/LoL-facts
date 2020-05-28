@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/419cd3be-b108-46c1-95cb-49747f56150b/deploy-status)](https://app.netlify.com/sites/league-facts/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
