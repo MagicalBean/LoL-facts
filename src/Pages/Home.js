@@ -7,8 +7,16 @@ export class Home extends Component {
     return (
       <div>
         <Navbar />
-        <Typography variant="h2" component="h1" align="center">
+        <Typography variant="h1" component="h1" align="center">
           Home
+        </Typography>
+        <Typography
+          variant="h2"
+          component="h2"
+          style={{ marginTop: 20 }}
+          align="center"
+        >
+          Go to "Explore" or "Search" to find all the LoL fun facts
         </Typography>
       </div>
     );

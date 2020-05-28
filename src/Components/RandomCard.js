@@ -13,9 +13,7 @@ import {
   Button,
   Grid,
   Chip,
-  Popover,
 } from "@material-ui/core";
-import PopupState, { bindTrigger, bindPopover } from "material-ui-popup-state";
 // Redux
 import { connect } from "react-redux";
 import ChampionChips from "./ChampionChips";
@@ -57,11 +55,16 @@ class RandomCard extends Component {
 
   changeIndex = (num) => (event) => {
     this.setState((state) => {
+      if (state.index + num >= 40) return { index: 0 };
+      if (state.index + num <= 0) return { index: 39 };
       return { index: state.index + num };
     });
   };
 
   setIndex = (num) => {
+    if (num <= 0) num = 0;
+    if (num >= 39) num = 39;
+
     this.setState((state) => {
       return { index: num };
     });

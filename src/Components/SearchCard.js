@@ -2,17 +2,8 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import withStyles from "@material-ui/core/styles/withStyles";
 import { withRouter } from "react-router-dom";
-import {
-  Card,
-  CardActions,
-  CardContent,
-  Typography,
-  Button,
-  Grid,
-  Chip,
-} from "@material-ui/core";
+import { Card, CardContent, Typography, Grid, Chip } from "@material-ui/core";
 import { connect } from "react-redux";
-import { setIndex } from "../Redux/actions/dataActions";
 import ChampionChips from "./ChampionChips";
 
 const styles = (theme) => ({
@@ -49,14 +40,6 @@ class SearchCard extends Component {
     min = Math.ceil(min);
     max = Math.floor(max);
     return Math.floor(Math.random() * (max - min)) + min;
-  };
-
-  changeIndex = (num) => (event) => {
-    this.props.setIndex(this.props.index + num);
-  };
-
-  setIndex = (num) => {
-    this.props.setIndex(num);
   };
 
   render() {
@@ -98,7 +81,7 @@ class SearchCard extends Component {
                 </Grid>
                 <Grid item align="right" xs={4}>
                   {currentFact.champions}
-                  <ChampionChips index={index} />
+                  <ChampionChips index={index - 1} />
                 </Grid>
                 <Grid item>
                   <Typography className={classes.fact}>
@@ -131,9 +114,8 @@ SearchCard.propTypes = {
   indicies: PropTypes.array,
   facts: PropTypes.array.isRequired,
   classes: PropTypes.object.isRequired,
-  setIndex: PropTypes.func.isRequired,
 };
 
 export default withRouter(
-  connect(mapStateToProps, { setIndex })(withStyles(styles)(SearchCard))
+  connect(mapStateToProps)(withStyles(styles)(SearchCard))
 );

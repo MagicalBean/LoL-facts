@@ -28,9 +28,10 @@ class ChampionChips extends Component {
   render() {
     const { facts, classes, index } = this.props;
 
-    let i = index - 1;
+    let i = index;
 
-    // console.log();
+    if (i >= 40) i = 40;
+    if (i <= 0) i = 0;
 
     return (
       <PopupState variant="popover" popupId="champs-popover">
