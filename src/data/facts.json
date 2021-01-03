@@ -251,5 +251,11 @@
     "fact": "Warwick has a dance that imitates the choreography of singer Michael Jackson in the music video for the song Thriller.",
     "characters": ["Warwick"],
     "categories": ["dance"]
+  },
+  {
+    "id": 41,
+    "fact": "Lulu's production name was Waena the Suppordle (Support + Yordle).",
+    "characters": ["Lulu"],
+    "categories": []
   }
 ]
